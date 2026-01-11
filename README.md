@@ -32,6 +32,5 @@ python3 -m http.server 8000
 
 ## Future Work
 
-The following items I plan to fix, improve, and/or add to this project in the future:
-1.Add more CSS styling
-2.Add images of Chile
+1. Add more CSS styling
+2. Add images of Chile
