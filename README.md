@@ -34,3 +34,7 @@ python3 -m http.server 8000
 
 1. Add more CSS styling
 2. Add images of Chile
+
+## Set Up - for the class.
+
+-https://www.loom.com/share/8f08139a01834572a7b3e505e99e0c9a
